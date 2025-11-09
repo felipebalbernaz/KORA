@@ -1,0 +1,202 @@
+[
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Contagem de rotina",
+    "codigo_bncc": "EF01MA01",
+    "habilidade_bncc": "Utilizar números naturais como indicador de quantidade ou de ordem em diferentes situações cotidianas e reconhecer situações em que os números não indicam contagem nem ordem, mas sim código de identificação."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Contagem ascendente e descendente",
+    "codigo_bncc": "EF01MA01",
+    "habilidade_bncc": "Utilizar números naturais como indicador de quantidade ou de ordem em diferentes situações cotidianas e reconhecer situações em que os números não indicam contagem nem ordem, mas sim código de identificação."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Reconhecimento de números no contexto diário: indicação de quantidades, indicação de ordem ou indicação de código para a organização de informações",
+    "codigo_bncc": "EF01MA01",
+    "habilidade_bncc": "Utilizar números naturais como indicador de quantidade ou de ordem em diferentes situações cotidianas e reconhecer situações em que os números não indicam contagem nem ordem, mas sim código de identificação."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Quantificação de elementos de uma coleção: estimativas, contagem um a um, pareamento ou outros agrupamentos e comparação",
+    "codigo_bncc": "EF01MA02",
+    "habilidade_bncc": "Contar de maneira exata ou aproximada, utilizando diferentes estratégias como o pareamento e outros agrupamentos."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Quantificação de elementos de uma coleção: estimativas, contagem um a um, pareamento ou outros agrupamentos e comparação",
+    "codigo_bncc": "EF01MA03",
+    "habilidade_bncc": "Estimar e comparar quantidades de objetos de dois conjuntos (em torno de 20 elementos), por estimativa e/ou por correspondência (um a um, dois a dois) para indicar “tem mais”, “tem menos” ou “tem a mesma quantidade”."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Leitura, escrita e comparação de números naturais (até 100)",
+    "codigo_bncc": "EF01MA04",
+    "habilidade_bncc": "Contar a quantidade de objetos de coleções até 100 unidades e apresentar o resultado por registros verbais e simbólicos, em situações de seu interesse, como jogos, brincadeiras, materiais da sala de aula, entre outros."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Reta numérica",
+    "codigo_bncc": "EF01MA05",
+    "habilidade_bncc": "Comparar números naturais de até duas ordens em situações cotidianas, com e sem suporte da reta numérica."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Construção de fatos básicos da adição",
+    "codigo_bncc": "EF01MA06",
+    "habilidade_bncc": "Construir fatos básicos da adição e utilizá-los em procedimentos de cálculo para resolver problemas."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Composição e decomposição de números naturais",
+    "codigo_bncc": "EF01MA07",
+    "habilidade_bncc": "Compor e decompor número de até duas ordens, por meio de diferentes adições, com o suporte de material manipulável, contribuindo para a compreensão de características do sistema de numeração decimal e o desenvolvimento de estratégias de cálculo."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Problemas envolvendo diferentes significados da adição e da subtração (juntar, acrescentar, separar, retirar)",
+    "codigo_bncc": "EF01MA08 ",
+    "habilidade_bncc": "Resolver e elaborar problemas de adição e de subtração, envolvendo números de até dois algarismos, com os significados de juntar, acrescentar, separar e retirar, com o suporte de imagens e/ou material manipulável, utilizando estratégias e formas de registro pessoais."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Álgebra",
+    "objetos_de_conhecimento": "Padrões figurais e numéricos: investigação de regularidades ou padrões em sequências",
+    "codigo_bncc": "EF01MA09",
+    "habilidade_bncc": "Organizar e ordenar objetos familiares ou representações por figuras, por meio de atributos, tais como cor, forma e medida."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Álgebra",
+    "objetos_de_conhecimento": "Sequências recursivas: observação de regras usadas utilizadas em seriações numéricas (mais 1, mais 2, menos 1, menos 2, por exemplo)",
+    "codigo_bncc": "EF01MA10",
+    "habilidade_bncc": "Descrever, após o reconhecimento e a explicitação de um padrão (ou regularidade), os elementos ausentes em sequências recursivas de números naturais, objetos ou figuras."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Localização de objetos e de pessoas no espaço, utilizando diversos pontos de referência e vocabulário apropriado",
+    "codigo_bncc": "EF01MA11",
+    "habilidade_bncc": "Descrever a localização de pessoas e de objetos no espaço em relação à sua\nprópria posição, utilizando termos como à direita, à esquerda, em frente, atrás."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Localização de objetos e de pessoas no espaço, utilizando diversos pontos de referência e vocabulário apropriado",
+    "codigo_bncc": "EF01MA12",
+    "habilidade_bncc": "Descrever a localização de pessoas e de objetos no espaço segundo um dado ponto de referência, compreendendo que, para a utilização de termos que se referem à posição, como direita, esquerda, em cima, em baixo, é necessário explicitar-se o referencial."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Figuras geométricas espaciais: reconhecimento e relações com objetos familiares do mundo físico",
+    "codigo_bncc": "EF01MA13 ",
+    "habilidade_bncc": "Relacionar figuras geométricas espaciais (cones, cilindros, esferas e blocos retangulares) a objetos familiares do mundo físico."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Figuras geométricas planas: reconhecimento do formato das faces de figuras geométricas espaciais",
+    "codigo_bncc": "EF01MA14  ",
+    "habilidade_bncc": "Identificar e nomear figuras planas (círculo, quadrado, retângulo e triângulo) em desenhos apresentados em diferentes disposições ou em contornos de faces de sólidos geométricos."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de comprimento, massa e capacidade: comparações e unidades de medida não convencionais",
+    "codigo_bncc": "EF01MA15",
+    "habilidade_bncc": "Comparar comprimentos, capacidades ou massas, utilizando termos como mais alto, mais baixo, mais comprido, mais curto, mais grosso, mais fino, mais largo, mais pesado, mais leve, cabe mais, cabe menos, entre outros, para ordenar objetos de uso cotidiano."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de tempo: unidades de medida de tempo, suas relações e o uso do calendário",
+    "codigo_bncc": "EF01MA16",
+    "habilidade_bncc": "Relatar em linguagem verbal ou não verbal sequência de acontecimentos relativos a um dia, utilizando, quando possível, os horários dos eventos."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de tempo: unidades de medida de tempo, suas relações e o uso do calendário",
+    "codigo_bncc": "EF01MA17",
+    "habilidade_bncc": "Reconhecer e relacionar períodos do dia, dias da semana e meses do ano, utilizando calendário, quando necessário."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de tempo: unidades de medida de tempo, suas relações e o uso do calendário",
+    "codigo_bncc": "EF01MA18",
+    "habilidade_bncc": "Produzir a escrita de uma data, apresentando o dia, o mês e o ano, e indicar o dia da semana de uma data, consultando calendários."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Sistema monetário brasileiro: reconhecimento de cédulas e moedas",
+    "codigo_bncc": "EF01MA19",
+    "habilidade_bncc": "Reconhecer e relacionar valores de moedas e cédulas do sistema monetário brasileiro para resolver situações simples do cotidiano do estudante."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": "Noção de acaso",
+    "codigo_bncc": "EF01MA20",
+    "habilidade_bncc": "Classificar eventos envolvendo o acaso, tais como “acontecerá com certeza”, “talvez aconteça” e “é impossível acontecer”, em situações do cotidiano."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": "Leitura de tabelas e de gráficos de colunas simples",
+    "codigo_bncc": "EF01MA21",
+    "habilidade_bncc": "Ler dados expressos em tabelas e em gráficos de colunas simples."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": "Coleta e organização de informações",
+    "codigo_bncc": "EF01MA22",
+    "habilidade_bncc": "Realizar pesquisa, envolvendo até duas variáveis categóricas de seu interesse e universo de até 30 elementos, e organizar dados por meio de representações pessoais."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "1°",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": "Registros pessoais para comunicação de informações coletadas",
+    "codigo_bncc": "EF01MA22",
+    "habilidade_bncc": "Realizar pesquisa, envolvendo até duas variáveis categóricas de seu interesse e universo de até 30 elementos, e organizar dados por meio de representações pessoais."
+  }
+]

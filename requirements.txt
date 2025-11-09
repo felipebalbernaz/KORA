@@ -1,0 +1,36 @@
+# FastAPI e servidor
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# LangChain e IA
+langchain==1.0.5
+langchain-core==1.0.4
+langchain-openai==1.0.2
+langchain-google-genai==3.0.1
+langchain-community==0.4.1
+google-generativeai==0.9.0
+google-ai-generativelanguage==0.9.0
+
+# RAG e Banco Vetorial
+chromadb==0.4.22
+sentence-transformers==2.3.1
+
+# Banco de Dados
+sqlalchemy==2.0.25
+alembic==1.13.1
+
+# Validação e Configuração
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# Utilidades
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+httpx==0.26.0
+
+# Frontend de Testes
+streamlit==1.31.0
+pillow==10.2.0
+

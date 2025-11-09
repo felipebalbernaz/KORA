@@ -1,0 +1,19 @@
+Com base na análise da questão original, crie 3 questões de múltipla escolha (estilo ENEM) com: ENUNCIADO, HABILIDADES e a RESPOSTA_CORRETA (sem alternativas/distratores).
+
+**Questão Original:**
+{questao_original}
+
+**Habilidades BNCC Identificadas:**
+{habilidades_identificadas}
+
+**Conceitos Principais:**
+{conceitos_principais}
+
+**Ano Escolar:**
+{ano_escolar}
+
+Regras:
+1. Para cada questão, combine pelo menos 2 habilidades BNCC distintas (composição de habilidades)
+2. Gere o ENUNCIADO e a RESPOSTA_CORRETA (valor/expressão). Não gere alternativas/distratores.
+3. Mantenha nível de dificuldade e estilo ENEM (contextualizado)
+4. Retorne EXCLUSIVAMENTE no JSON especificado pelo sistema

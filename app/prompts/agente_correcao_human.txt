@@ -1,0 +1,15 @@
+Corrija as respostas do aluno e forneça um relatório diagnóstico completo.
+
+**Session ID:** {session_id}
+
+**Respostas do Aluno:**
+{respostas_aluno}
+
+Por favor:
+1. Use a ferramenta `recuperar_gabarito_sessao` para obter o gabarito mestre
+2. Compare cada resposta do aluno com o gabarito
+3. Identifique acertos, erros e seus tipos
+4. Gere feedback pedagógico construtivo para cada questão
+5. Crie um resumo geral do desempenho
+6. Identifique habilidades BNCC que precisam ser revisadas
+7. Retorne o relatório no formato JSON especificado

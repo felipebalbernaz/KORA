@@ -1,0 +1,10 @@
+Enunciado da questão:
+{enunciado}
+
+Resposta correta:
+{resposta_correta}
+
+Gere exatamente {n} distratores plausíveis, distintos entre si e da resposta correta.
+Retorne apenas JSON válido no formato:
+{"distratores": ["...", "...", "...", "..."]}
+

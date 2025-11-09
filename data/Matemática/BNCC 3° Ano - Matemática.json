@@ -1,0 +1,226 @@
+[
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Leitura, escrita, comparação e ordenação de números naturais de quatro ordens",
+    "codigo_bncc": "EF03MA01",
+    "habilidade_bncc": "Ler, escrever e comparar números naturais de até a ordem de unidade de milhar, estabelecendo relações entre os registros numéricos e em língua materna."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Composição e decomposição de números naturais",
+    "codigo_bncc": "EF03MA02",
+    "habilidade_bncc": "Identificar características do sistema de numeração decimal, utilizando a composição e a decomposição de número natural de até quatro ordens."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Construção de fatos fundamentais da adição, subtração e multiplicação",
+    "codigo_bncc": "EF03MA03",
+    "habilidade_bncc": "Construir e utilizar fatos básicos da adição e da multiplicação para o cálculo mental ou escrito."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Reta numérica",
+    "codigo_bncc": "EF03MA04",
+    "habilidade_bncc": "Estabelecer a relação entre números naturais e pontos da reta numérica para utilizá-la na ordenação dos números naturais e também na construção de fatos da adição e da subtração, relacionando-os com deslocamentos para a direita ou para a esquerda."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Procedimentos de cálculo (mental e escrito) com\nnúmeros naturais: adição e subtração",
+    "codigo_bncc": "EF03MA05",
+    "habilidade_bncc": "Utilizar diferentes procedimentos de cálculo mental e escrito, inclusive os convencionais, para resolver problemas significativos envolvendo adição e subtração com números naturais."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Problemas envolvendo significados da adição e da subtração: juntar, acrescentar, separar, retirar, comparar e completar quantidades",
+    "codigo_bncc": "EF03MA06",
+    "habilidade_bncc": "Resolver e elaborar problemas de adição e subtração com os significados de juntar, acrescentar, separar, retirar, comparar e completar quantidades, utilizando diferentes estratégias de cálculo exato ou aproximado, incluindo cálculo mental."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Problemas envolvendo diferentes significados\nda multiplicação e da divisão: adição de parcelas iguais, configuração retangular, repartição em partes iguais e medida",
+    "codigo_bncc": "EF03MA07",
+    "habilidade_bncc": "Resolver e elaborar problemas de multiplicação (por 2, 3, 4, 5 e 10) com os significados de adição de parcelas iguais e elementos apresentados em disposição retangular, utilizando diferentes estratégias de cálculo e registros."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Problemas envolvendo diferentes significados\nda multiplicação e da divisão: adição de parcelas iguais, configuração retangular, repartição em partes iguais e medida",
+    "codigo_bncc": "EF03MA08",
+    "habilidade_bncc": "Resolver e elaborar problemas de divisão de um número natural por outro (até 10), com resto zero e com resto diferente de zero, com os significados de repartição equitativa e de medida, por meio de estratégias e registros pessoais"
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Significados de metade, terça parte, quarta parte, quinta parte e décima parte",
+    "codigo_bncc": "EF03MA09",
+    "habilidade_bncc": "Associar o quociente de uma divisão com resto zero de um número natural por 2, 3, 4, 5 e 10 às ideias de metade, terça, quarta, quinta e décima partes."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Álgebra",
+    "objetos_de_conhecimento": "Identificação e descrição de regularidades em sequências numéricas recursivas",
+    "codigo_bncc": "EF03MA10",
+    "habilidade_bncc": "Identificar regularidades em sequências ordenadas de números naturais, resultantes da realização de adições ou subtrações sucessivas, por um mesmo número, descrever uma regra de formação da sequência e determinar elementos faltantes ou seguintes"
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Álgebra",
+    "objetos_de_conhecimento": "Relação de igualdade",
+    "codigo_bncc": "EF03MA11",
+    "habilidade_bncc": "Compreender a ideia de igualdade para escrever diferentes sentenças de adições ou de subtrações de dois números naturais que resultem na mesma soma ou diferença."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Localização e movimentação: representação de objetos e pontos de referência",
+    "codigo_bncc": "EF03MA12",
+    "habilidade_bncc": "Descrever e representar, por meio de esboços de trajetos ou utilizando croquis e maquetes, a movimentação de pessoas ou de objetos no espaço, incluindo mudanças de direção e sentido, com base em diferentes pontos de referência."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro e esfera): reconhecimento, análise de características e\nplanificações",
+    "codigo_bncc": "EF03MA13",
+    "habilidade_bncc": "Associar figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro e esfera) a objetos do mundo físico e nomear essas figuras."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro e esfera): reconhecimento, análise de características e\nplanificações",
+    "codigo_bncc": "EF03MA14",
+    "habilidade_bncc": "Descrever características de algumas figuras geométricas espaciais (prismas retos, pirâmides, cilindros, cones), relacionando-as com suas planificações."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Figuras geométricas planas (triângulo, quadrado, retângulo, trapézio e paralelogramo): reconhecimento e análise de características",
+    "codigo_bncc": "EF03MA15",
+    "habilidade_bncc": "Classificar e comparar figuras planas (triângulo, quadrado, retângulo, trapézio e paralelogramo) em relação a seus lados (quantidade, posições relativas e comprimento) e vértices."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Congruência de figuras geométricas planas",
+    "codigo_bncc": "EF03MA16",
+    "habilidade_bncc": "Reconhecer figuras congruentes, usando sobreposição e desenhos em malhas quadriculadas ou triangulares, incluindo o uso de tecnologias digitais."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Significado de medida e de unidade de medida",
+    "codigo_bncc": "EF03MA17",
+    "habilidade_bncc": "Reconhecer que o resultado de uma medida depende da unidade de medida utilizada."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Significado de medida e de unidade de medida",
+    "codigo_bncc": "EF03MA18",
+    "habilidade_bncc": "Escolher a unidade de medida e o instrumento mais apropriado para medições de comprimento, tempo e capacidade"
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de comprimento (unidades não convencionais e convencionais): registro,\ninstrumentos de medida, estimativas e comparações",
+    "codigo_bncc": "EF03MA19",
+    "habilidade_bncc": "Estimar, medir e comparar comprimentos, utilizando unidades de medida não padronizadas e padronizadas mais usuais (metro, centímetro e milímetro) e diversos\ninstrumentos de medida."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de capacidade e de massa (unidades não convencionais e convencionais): registro,\nestimativas e comparações",
+    "codigo_bncc": "EF03MA20",
+    "habilidade_bncc": "Estimar e medir capacidade e massa, utilizando unidades de medida não padronizadas e padronizadas mais usuais (litro, mililitro, quilograma, grama e miligrama), reconhecendo-as em leitura de rótulos e embalagens, entre outros."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Comparação de áreas por superposição",
+    "codigo_bncc": "EF03MA21",
+    "habilidade_bncc": "Comparar, visualmente ou por superposição, áreas de faces de objetos, de figuras planas ou de desenhos."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de tempo: leitura de horas em relógios digitais e analógicos, duração de eventos e reconhecimento de relações entre unidades de\nmedida de tempo",
+    "codigo_bncc": "EF03MA22",
+    "habilidade_bncc": "Ler e registrar medidas e intervalos de tempo, utilizando relógios (analógico e digital) para informar os horários de início e término de realização de uma atividade e sua duração."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de tempo: leitura de horas em relógios digitais e analógicos, duração de eventos e reconhecimento de relações entre unidades de\nmedida de tempo",
+    "codigo_bncc": "EF03MA23",
+    "habilidade_bncc": "Ler horas em relógios digitais e em relógios analógicos e reconhecer a relação entre hora e minutos e entre minuto e segundos."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Sistema monetário brasileiro: estabelecimento de equivalências de um mesmo valor na utilização de diferentes cédulas e moedas",
+    "codigo_bncc": "EF03MA24",
+    "habilidade_bncc": "Resolver e elaborar problemas que envolvam a comparação e a equivalência de valores monetários do sistema brasileiro em situações de compra, venda e troca."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": " Análise da ideia de acaso em situações do cotidiano: espaço amostral",
+    "codigo_bncc": "EF03MA25",
+    "habilidade_bncc": "Identificar, em eventos familiares aleatórios, todos os resultados possíveis, estimando os que têm maiores ou menores chances de ocorrência."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": "Leitura, interpretação e representação de dados em tabelas de dupla entrada e gráficos de barras",
+    "codigo_bncc": "EF03MA26",
+    "habilidade_bncc": "Resolver problemas cujos dados estão apresentados em tabelas de dupla entrada, gráficos de barras ou de colunas."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": "Leitura, interpretação e representação de dados em tabelas de dupla entrada e gráficos de barras",
+    "codigo_bncc": "EF03MA27",
+    "habilidade_bncc": "Ler, interpretar e comparar dados apresentados em tabelas de dupla entrada, gráficos de barras ou de colunas, envolvendo resultados de pesquisas significativas, utilizando termos como maior e menor frequência, apropriando-se desse tipo de linguagem para compreender aspectos da realidade sociocultural significativos."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "3°",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": "Coleta, classificação e representação de dados referentes a variáveis categóricas, por meio de\ntabelas e gráficos",
+    "codigo_bncc": "EF03MA28",
+    "habilidade_bncc": "Realizar pesquisa envolvendo variáveis categóricas em um universo de até 50 elementos, organizar os dados coletados utilizando listas, tabelas simples ou de dupla entrada e representá-los em gráficos de colunas simples, com e sem uso de tecnologias digitais."
+  }
+]

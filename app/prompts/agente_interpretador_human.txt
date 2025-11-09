@@ -1,0 +1,10 @@
+Analise a seguinte questão de matemática e identifique as habilidades da BNCC relacionadas:
+
+**Questão:**
+{questao_texto}
+
+Por favor:
+1. Use as ferramentas disponíveis para buscar habilidades BNCC relevantes
+2. Identifique os conceitos matemáticos principais
+3. Determine o ano escolar apropriado
+4. Retorne a análise no formato JSON especificado

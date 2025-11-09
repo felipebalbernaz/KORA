@@ -1,0 +1,15 @@
+Resolva as seguintes questões passo a passo e crie um gabarito mestre completo.
+
+
+
+**Session ID:** {session_id}
+
+**Questões a Resolver (enumeradas):**
+{questoes}
+
+Por favor:
+1. Resolva cada questão mostrando todos os passos
+2. Identifique conceitos aplicados e erros comuns
+3. Informe a letra da alternativa correta, se disponível
+4. Crie o gabarito no formato JSON especificado
+5. Use a ferramenta `salvar_gabarito_sessao` para salvar o gabarito com o session_id fornecido

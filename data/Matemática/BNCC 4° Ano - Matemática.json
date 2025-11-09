@@ -1,0 +1,242 @@
+[
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Sistema de numeração decimal: leitura, escrita, comparação e ordenação de números naturais de até cinco ordens",
+    "codigo_bncc": "EF04MA01",
+    "habilidade_bncc": " Ler, escrever e ordenar números naturais até a ordem de dezenas de milhar."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Composição e decomposição de um número natural de até cinco ordens, por meio de adições e multiplicações por potências de 10",
+    "codigo_bncc": "EF04MA02",
+    "habilidade_bncc": "Mostrar, por decomposição e composição, que todo número natural pode ser escrito por meio de adições e multiplicações por potências de dez, para compreender o sistema de numeração decimal e desenvolver estratégias de cálculo."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Propriedades das operações para o desenvolvimento de diferentes estratégias de\ncálculo com números naturais ",
+    "codigo_bncc": "EF04MA03",
+    "habilidade_bncc": " Resolver e elaborar problemas com números naturais envolvendo adição e subtração,\nutilizando estratégias diversas, como cálculo, cálculo mental e algoritmos, além de fazer estimativas\ndo resultado."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Propriedades das operações para o desenvolvimento de diferentes estratégias de\ncálculo com números naturais ",
+    "codigo_bncc": "EF04MA04",
+    "habilidade_bncc": "Utilizar as relações entre adição e subtração, bem como entre multiplicação e divisão, para ampliar as estratégias de cálculo."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Propriedades das operações para o desenvolvimento de diferentes estratégias de\ncálculo com números naturais ",
+    "codigo_bncc": "EF04MA05",
+    "habilidade_bncc": "Utilizar as propriedades das operações para desenvolver estratégias de cálculo. "
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Problemas envolvendo diferentes significados\nda multiplicação e da divisão: adição de parcelas\niguais, configuração retangular, proporcionalidade,\nrepartição equitativa e medida",
+    "codigo_bncc": "EF04MA06",
+    "habilidade_bncc": "Resolver e elaborar problemas envolvendo diferentes significados da multiplicação\n(adição de parcelas iguais, organização retangular e proporcionalidade), utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Problemas envolvendo diferentes significados\nda multiplicação e da divisão: adição de parcelas\niguais, configuração retangular, proporcionalidade,\nrepartição equitativa e medida",
+    "codigo_bncc": "EF04MA07",
+    "habilidade_bncc": "Resolver e elaborar problemas de divisão cujo divisor tenha no máximo dois algarismos,\nenvolvendo os significados de repartição equitativa e de medida, utilizando estratégias diversas, como cálculo por estimativa, cálculo mental e algoritmos."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Problemas de contagem",
+    "codigo_bncc": "EF04MA08",
+    "habilidade_bncc": " Resolver, com o suporte de imagem e/ou material manipulável, problemas simples de contagem, como a determinação do número de agrupamentos possíveis ao se combinar cada elemento de uma coleção com todos os elementos de outra, utilizando estratégias e formas de registro pessoais."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Números racionais: frações unitárias mais usuais (1/2,\n1/3, 1/4, 1/5, 1/10 e 1/100)",
+    "codigo_bncc": "EF04MA09",
+    "habilidade_bncc": " Reconhecer as frações unitárias mais usuais (1/2, 1/3, 1/4, 1/5, 1/10 e 1/100) como unidades de medida menores do que uma unidade, utilizando a reta numérica como recurso."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Números",
+    "objetos_de_conhecimento": "Números racionais: representação decimal para escrever valores do sistema monetário brasileiro",
+    "codigo_bncc": "EF04MA10",
+    "habilidade_bncc": "Reconhecer que as regras do sistema de numeração decimal podem ser estendidas\npara a representação decimal de um número racional e relacionar décimos e centésimos com a\nrepresentação do sistema monetário brasileiro."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Álgebra",
+    "objetos_de_conhecimento": "Sequência numérica recursiva formada por múltiplos de um número natural ",
+    "codigo_bncc": "EF04MA11",
+    "habilidade_bncc": " Identificar regularidades em sequências numéricas compostas por múltiplos de um\nnúmero natural."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Álgebra",
+    "objetos_de_conhecimento": "Sequência numérica recursiva formada por números que deixam o mesmo resto ao ser divididos por um mesmo número natural diferente de zero",
+    "codigo_bncc": "EF04MA12",
+    "habilidade_bncc": "Reconhecer, por meio de investigações, que há grupos de números naturais para os quais as divisões por um determinado número resultam em restos iguais, identificando regularidades."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Álgebra",
+    "objetos_de_conhecimento": "Relações entre adição e subtração e entre\nmultiplicação e divisão",
+    "codigo_bncc": "EF04MA13",
+    "habilidade_bncc": "Reconhecer, por meio de investigações, utilizando a calculadora quando necessário, as\nrelações inversas entre as operações de adição e de subtração e de multiplicação e de divisão, para\naplicá-las na resolução de problemas."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Álgebra",
+    "objetos_de_conhecimento": "Propriedades da igualdade",
+    "codigo_bncc": "EF04MA14",
+    "habilidade_bncc": "Reconhecer e mostrar, por meio de exemplos, que a relação de igualdade existente entre dois termos permanece quando se adiciona ou se subtrai um mesmo número a cada um desses termos. "
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Álgebra",
+    "objetos_de_conhecimento": "Propriedades da igualdade",
+    "codigo_bncc": "EF04MA15",
+    "habilidade_bncc": "Determinar o número desconhecido que torna verdadeira uma igualdade que envolve as operações fundamentais com números naturais."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Localização e movimentação: pontos de referência, direção e sentido",
+    "codigo_bncc": "EF04MA16",
+    "habilidade_bncc": " Descrever deslocamentos e localização de pessoas e de objetos no espaço, por meio de\nmalhas quadriculadas e representações como desenhos, mapas, planta baixa e croquis, empregando termos como direita e esquerda, mudanças de direção e sentido, intersecção, transversais, paralelas e perpendiculares."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Paralelismo e perpendicularismo ",
+    "codigo_bncc": "EF04MA16",
+    "habilidade_bncc": " Descrever deslocamentos e localização de pessoas e de objetos no espaço, por meio de\nmalhas quadriculadas e representações como desenhos, mapas, planta baixa e croquis, empregando termos como direita e esquerda, mudanças de direção e sentido, intersecção, transversais, paralelas e perpendiculares."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Figuras geométricas espaciais (prismas e pirâmides):\nreconhecimento, representações, planificações e\ncaracterísticas",
+    "codigo_bncc": "EF04MA17",
+    "habilidade_bncc": "Associar prismas e pirâmides a suas planificações e analisar, nomear e comparar seus atributos, estabelecendo relações entre as representações planas e espaciais."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Ângulos retos e não retos: uso de dobraduras,\nesquadros e softwares",
+    "codigo_bncc": "EF04MA18",
+    "habilidade_bncc": "Reconhecer ângulos retos e não retos em figuras poligonais com o uso de dobraduras, esquadros ou softwares de geometria."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Geometria",
+    "objetos_de_conhecimento": "Simetria de reflexão ",
+    "codigo_bncc": "EF04MA19",
+    "habilidade_bncc": " Reconhecer simetria de reflexão em figuras e em pares de figuras geométricas planas e utilizá-la na construção de figuras congruentes, com o uso de malhas quadriculadas e de softwares de geometria."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de comprimento, massa e capacidade:\nestimativas, utilização de instrumentos de medida e\nde unidades de medida convencionais mais usuais",
+    "codigo_bncc": "EF04MA20",
+    "habilidade_bncc": "Medir e estimar comprimentos (incluindo perímetros), massas e capacidades, utilizando\nunidades de medida padronizadas mais usuais, valorizando e respeitando a cultura local."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Áreas de figuras construídas em malhas\nquadriculadas",
+    "codigo_bncc": "EF04MA21",
+    "habilidade_bncc": "Medir, comparar e estimar área de figuras planas desenhadas em malha quadriculada,\npela contagem dos quadradinhos ou de metades de quadradinho, reconhecendo que duas figuras\ncom formatos diferentes podem ter a mesma medida de área."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de tempo: leitura de horas em relógios\ndigitais e analógicos, duração de eventos e relações entre unidades de medida de tempo",
+    "codigo_bncc": "EF04MA22",
+    "habilidade_bncc": " Ler e registrar medidas e intervalos de tempo em horas, minutos e segundos em\nsituações relacionadas ao seu cotidiano, como informar os horários de início e término de realização\nde uma tarefa e sua duração."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de temperatura em grau Celsius: \nconstrução de gráficos para indicar a variação da\ntemperatura (mínima e máxima) medida em um\ndado dia ou em uma semana ",
+    "codigo_bncc": "EF04MA23",
+    "habilidade_bncc": "Reconhecer temperatura como grandeza e o grau Celsius como unidade de medida a ela associada e utilizá-lo em comparações de temperaturas em diferentes regiões do Brasil ou no exterior ou, ainda, em discussões que envolvam problemas relacionados ao aquecimento global."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Medidas de temperatura em grau Celsius: \nconstrução de gráficos para indicar a variação da\ntemperatura (mínima e máxima) medida em um\ndado dia ou em uma semana ",
+    "codigo_bncc": "EF04MA24",
+    "habilidade_bncc": "Registrar as temperaturas máxima e mínima diárias, em locais do seu cotidiano, e elaborar gráficos de colunas com as variações diárias da temperatura, utilizando, inclusive, planilhas\neletrônicas."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Grandezas e medidas",
+    "objetos_de_conhecimento": "Problemas utilizando o sistema monetário brasileiro",
+    "codigo_bncc": "EF04MA25",
+    "habilidade_bncc": "Resolver e elaborar problemas que envolvam situações de compra e venda e formas de pagamento, utilizando termos como troco e desconto, enfatizando o consumo ético, consciente e responsável."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": "Análise de chances de eventos aleatórios ",
+    "codigo_bncc": "EF04MA26",
+    "habilidade_bncc": "Identificar, entre eventos aleatórios cotidianos, aqueles que têm maior chance de ocorrência, reconhecendo características de resultados mais prováveis, sem utilizar frações. "
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": "Leitura, interpretação e representação de dados\nem tabelas de dupla entrada, gráficos de colunas simples e agrupadas, gráficos de barras e colunas e\ngráficos pictóricos",
+    "codigo_bncc": "EF04MA27",
+    "habilidade_bncc": "Analisar dados apresentados em tabelas simples ou de dupla entrada e em gráficos de colunas ou pictóricos, com base em informações das diferentes áreas do conhecimento, e produzir\ntexto com a síntese de sua análise."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": "Diferenciação entre variáveis categóricas e variáveis\nnuméricas",
+    "codigo_bncc": "EF04MA28",
+    "habilidade_bncc": "Realizar pesquisa envolvendo variáveis categóricas e numéricas e organizar dados\ncoletados por meio de tabelas e gráficos de colunas simples ou agrupadas, com e sem uso de\ntecnologias digitais."
+  },
+  {
+    "componente": "Matemática",
+    "ano": "4º",
+    "unidades_tematicas": "Probabilidade e Estatística",
+    "objetos_de_conhecimento": "Coleta, classificação e representação de dados de\npesquisa realizada",
+    "codigo_bncc": "EF04MA28",
+    "habilidade_bncc": "Realizar pesquisa envolvendo variáveis categóricas e numéricas e organizar dados\ncoletados por meio de tabelas e gráficos de colunas simples ou agrupadas, com e sem uso de\ntecnologias digitais."
+  }
+]
